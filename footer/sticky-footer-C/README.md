@@ -1,0 +1,1 @@
+Ennek a módszernek az az elõnye, hogy nem kell használnod egy wrapper divet, mert a html elemet használja pozicionált konténerként. Ezt leszámítva tökéletesen azonos az elsõ megoldással, és ez is csak fix magasságú footer esetén mûködik.
